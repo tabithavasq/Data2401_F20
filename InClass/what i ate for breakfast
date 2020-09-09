@@ -1,3 +1,16 @@
 what i ate for breakfast 
 
 -egg biscuit with a sausage patty and water
+
+> "Be the change that you wish to see in the world." -Mahatna Gandhu
+[Goodreads Information](https://www.goodreads.com/quotes/24499-be-the-change-that-you-wish-to-see-in-the#:~:text=Quote%20by%20Mahatma%20Gandhi%3A%20%E2%80%9CBe,to%20see%20in%20the%20world.%E2%80%9D)
+
+|**Course Number**|*Course Title*|Instructor Name|
+| : --------------| : -----------| :-------------|
+|**DATA2401**|*Intro to Data Science*|Katherine Shoemaker|
+|**CS1311**|*Intro to Python*|John Henderson|
+|**MATH2305**|*Discrete Mathematics*|Randy Davila|
+
+> **mkdir**
+- An example on how it can be used is: mkdir Homework
+- This command is used to make a new folder
